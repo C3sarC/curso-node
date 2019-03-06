@@ -1,0 +1,14 @@
+{
+  "name": "03-base-node",
+  "version": "1.0.0",
+  "description": "Aplicacion para ejecutar comandos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cesar Carvajal",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.1"
+  }
+}
